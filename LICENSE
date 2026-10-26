@@ -1,28 +1,14 @@
-BSD 3-Clause License
+Proprietary License
+Copyright (c) 2026 Yukishimaru. All rights reserved.
 
-Copyright (c) 2026, Yukishimaru
+PERMITTED:
+1. To download and use this software (hereinafter referred to as the "Program") for personal or commercial purposes free of charge.
+2. To distribute an unmodified original copy of the Program (a link to the official repository or the original installation file) without making any changes.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+IT IS FORBIDDEN TO:
+1. Modify, decompile, disassemble, or create derivative works based on the Program or its source code.
+2. Distribute modified versions of the Program.
+3. Pass off the Program as your own development.
+4. Use the source code of the Program (in whole or in part) in other projects without the written permission of the author.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+THE PROGRAM IS PROVIDED "AS IS", WITHOUT ANY GUARANTEES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY AND SUITABILITY FOR A SPECIFIC PURPOSE. THE AUTHOR IS NOT RESPONSIBLE FOR ANY DAMAGE RESULTING FROM THE USE OF THE PROGRAM.
